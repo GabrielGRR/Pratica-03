@@ -4,7 +4,7 @@
   "description": "Pratica 03 parte 2",
   "main": "App.js",
   "scripts": {
-    "start": "node index",
+    "start": "node app",
     "test": "jest --watchAll",
     "test:ci": "jest --ci --coverage --coverageReporters=html --coverageReporters=lcov"
   },
